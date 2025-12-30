@@ -1,0 +1,45 @@
+# ⏱️ Time Converter (C++)
+
+## 📌 Project Overview
+
+The **Time Converter** is a simple C++ console-based application that converts time between:
+
+* **Seconds → HH:MM:SS**
+* **HH:MM:SS → Total Seconds**
+
+This project demonstrates basic **Object-Oriented Programming (OOP)** concepts in C++ such as classes, methods, and user interaction through the console.
+
+---
+
+## 🚀 Features
+
+* Convert total seconds into **Hours : Minutes : Seconds**
+* Convert **Hours : Minutes : Seconds** into total seconds
+* Menu-driven and user-friendly interface
+* Clean and easy-to-understand logic
+
+---
+
+## 🛠️ Technologies Used
+
+* **Language:** C++
+* **Concepts:**
+
+  * Classes & Objects
+  * Functions
+  * Conditional Statements
+  * User Input / Output
+
+---
+
+## 📂 Project Structure
+
+```
+Time-Converter/
+│
+├── time_converter.cpp
+└── README.md
+```
+
+---
+
