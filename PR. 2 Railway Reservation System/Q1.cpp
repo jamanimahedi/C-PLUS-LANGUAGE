@@ -1,4 +1,5 @@
 #include <iostream>
+
 #include <cstring>
 
 using namespace std;
@@ -27,7 +28,7 @@ public:
     }
 
     // Parameterized Constructor
-    Train(int number, const char* name, const char* src, const char* dest, const char* time)
+    Train(int number, const char *name, const char *src, const char *dest, const char *time)
     {
         trainNumber = number;
         strcpy(trainName, name);
@@ -49,22 +50,22 @@ public:
         trainNumber = number;
     }
 
-    void setTrainName(const char* name)
+    void setTrainName(const char *name)
     {
         strcpy(trainName, name);
     }
 
-    void setSource(const char* src)
+    void setSource(const char *src)
     {
         strcpy(source, src);
     }
 
-    void setDestination(const char* dest)
+    void setDestination(const char *dest)
     {
         strcpy(destination, dest);
     }
 
-    void setTrainTime(const char* time)
+    void setTrainTime(const char *time)
     {
         strcpy(trainTime, time);
     }
@@ -75,22 +76,22 @@ public:
         return trainNumber;
     }
 
-    const char* getTrainName() const
+    const char *getTrainName() const
     {
         return trainName;
     }
 
-    const char* getSource() const
+    const char *getSource() const
     {
         return source;
     }
 
-    const char* getDestination() const
+    const char *getDestination() const
     {
         return destination;
     }
 
-    const char* getTrainTime() const
+    const char *getTrainTime() const
     {
         return trainTime;
     }
