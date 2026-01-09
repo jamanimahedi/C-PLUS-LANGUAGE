@@ -1,0 +1,110 @@
+# 🚆 Railway Reservation System (C++)
+
+## 📖 Introduction
+The **Railway Reservation System** is a console-based application developed in **C++** using **Object-Oriented Programming (OOP)** concepts.  
+This project allows users to manage train records efficiently by providing options to **add**, **display**, and **search** train details using a **menu-driven system**.
+
+This project is developed as part of **Project–2** assigned by **Red & White Multimedia Education**.
+
+---
+
+## 🎯 Project Objectives
+- To understand and implement OOP concepts in C++
+- To work with classes, objects, and encapsulation
+- To manage multiple records using arrays of objects
+- To build a menu-driven console application
+
+---
+
+## 🛠️ Technologies & Concepts Used
+- **Language:** C++
+- **Concepts Implemented:**
+  - Classes & Objects
+  - Encapsulation
+  - Static Data Members
+  - Constructors & Destructor
+  - Getter and Setter Methods
+  - Array of Objects
+  - Menu-driven Programming
+
+---
+
+## 📋 Features
+- ➕ Add new train records
+- 📄 Display all train records
+- 🔍 Search train by train number
+- 🔐 Encapsulated data using private members
+- 📊 Static member to track total trains
+- 🧭 User-friendly menu system
+
+---
+
+## 🚆 Train Information Stored
+Each train record includes:
+- Train Number
+- Train Name
+- Source
+- Destination
+- Train Time
+
+---
+
+## 📑 Menu Options
+
+
+
+---
+
+## ▶️ Sample Output
+
+### Add Train Record
+
+
+
+### Display All Trains
+
+
+
+### Search Train by Number
+
+
+---
+
+## 📁 Project Structure
+
+
+
+---
+
+## 📸 Screenshots
+📌 Add screenshots of:
+- Main menu
+- Adding train records
+- Displaying all train records
+- Searching train by number
+
+*(Upload screenshots inside the `screenshots` folder)*
+
+---
+
+## 🧑‍🎓 Student Details
+- **Project Title:** Railway Reservation System
+- **Course:** C++ Programming
+- **Institute:** Red & White Multimedia Education
+- **Location:** Surat, Gujarat, India
+
+---
+
+## ✅ Conclusion
+This project successfully demonstrates how **Object-Oriented Programming concepts** can be applied in C++ to build a simple and effective real-world application.  
+It fulfills all the requirements mentioned in the project instructions.
+
+---
+
+## 🔗 GitHub Repository Link
+👉 *(Add your GitHub repository link here)*
+
+---
+
+## 📜 Disclaimer
+This project is created **strictly for educational purposes** and academic submission.
